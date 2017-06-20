@@ -1,0 +1,34 @@
+姓名:楊方寧
+學號:605415032
+E-mail:candy46410330@yahoo.com.tw
+作業環境:Win10 64bit
+編譯器:Visual Studio 2013
+
+備註：
+1.所有相關程式碼(包含exe檔)在hw4_605415032\GL_hw4資料夾下。
+2.demo_605415032.mp4為程式實際執行狀況影片
+3.demo影片在hw4_605415032資料夾下
+
+指定作業功能: 
+1.介面 : 20%
+-包含按鈕、檔案選取
+在介面右邊有顯示第一次跑Quilting的結果圖片
+另外在下面有有9個按鈕(檔案選取)可以選，皆會顯示Quilting的結果圖片，分別是
+greek.bmp(slow)  、   rice.bmp   	、  wool.bmp
+mesh.bmp   	 、   btile.bmp(slow)   、  fabric.bmp
+quit       	 、   cans_sc.bmp	、  berry.bmp
+
+另外greek.bmp和btile.bmp 跑得非常非常非常慢,可以試其他優先,不建議選這兩個,容易exe掛掉
+
+2.Quilting : 30%
+-包含老師給的9張紋理(source)圖去做拼接
+紋理圖都接有做拼貼
+
+3.Text transfer : 30%
+
+
+4.Iteration : 20%
+
+
+額外bonus操作功能:
+  (1)在demo_605415032.mp4的影片為實際操作影片
